@@ -6,8 +6,8 @@
 }
 
 :root {
-    --primary: #086824;
-    --primary-dark: #086824;
+    --primary: #788178;
+    --primary-dark: #1b241e;
     --bg-dark: #080808; /* Fond légèrement plus sombre */
     --bg-darker: #030303; /* Fond encore plus sombre */
     --text-light: #FAFAFA;
@@ -802,4 +802,5 @@ body {
         gap: 16px;
     }
 }
+
 
