@@ -211,7 +211,7 @@ body {
 
 .hero-subtitle {
     font-size: 1.5rem;
-    color: var(--text-muted);
+    color: #FAFAFA;
     max-width: 600px;
     margin: 0 auto;
 }
@@ -789,4 +789,5 @@ body {
         right: 32px;
         gap: 16px;
     }
+
 }
